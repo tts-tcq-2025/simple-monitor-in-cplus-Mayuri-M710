@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "externalConsole": true,
       "cwd": "c:/Users/Mayuri/Documents/GitHub/simple-monitor-in-cplus-Mayuri-M710",
-      "program": "c:/Users/Mayuri/Documents/GitHub/simple-monitor-in-cplus-Mayuri-M710/build/Debug/outDebug",
+      "program": "c:/Users/Mayuri/Documents/GitHub/simple-monitor-in-cplus-Mayuri-M710/build/Debug/outDebug.exe",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
